@@ -1,0 +1,3 @@
+﻿  solution.cpp
+C:\proga\TinkoffOpeningExamination\task2\solution\solution\solution.cpp(15,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  solution.vcxproj -> C:\proga\TinkoffOpeningExamination\task2\solution\solution\x64\Debug\solution.exe
